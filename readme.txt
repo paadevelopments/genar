@@ -67,7 +67,7 @@ app versions of your website.
     Note: Your first generation after a successful setup will require
     internet access and ~2Gig data to patch up some setup processes.
     This will also take some time so be patient.
-    Once first-time-generate is successful, next onces will be fast.
+    Once first-time-generate is successful, next ones will be fast.
 
 
 By Paa <paa.code.me@gmail.com> 2023.
